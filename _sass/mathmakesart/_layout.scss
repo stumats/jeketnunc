@@ -253,3 +253,101 @@
     }
   }
 }
+
+
+/**
+ * Listings (Created by MathMakesArt on 2021/03/29)
+ */
+ .listings {
+  width: 100%;
+  border: 0px solid black;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.listing {
+  height: 370px; /*set height*/
+  min-height: 370px;
+  border: 0px solid red;
+  width: auto;
+  box-sizing: border-box;
+}
+.listing-info {
+  width: 50%;
+  height: 100%;
+  border: 0px solid orange;
+  float: left;
+  box-sizing: border-box;
+  padding-top: 20px;
+}
+.listing-preview {
+  width: 50%;
+  height: 100%;
+  border: 0px solid yellow;
+  float: right;
+  box-sizing: border-box;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.listing-preview-image {
+  width: 320px;
+  height: 320px;
+  border: 0px solid yellowgreen;
+  display: block;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.listing-info-heading {
+  width: 100%;
+  border: 0px solid green;
+  box-sizing: border-box;
+  font-variant: small-caps;
+  letter-spacing: 0px;
+}
+.listing-info-subheading {
+  width: 100%;
+  border: 0px solid cyan;
+  box-sizing: border-box;
+}
+.listing-info-table {
+  width: 100%;
+  border: 0px solid blue;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  float: left;
+  box-sizing: border-box;
+}
+.listing-info-table-row {
+  width: 100%;
+  border: 0px solid blueviolet;
+  float: left;
+  box-sizing: border-box;
+}
+.listing-info-table-cell-left {
+  width: 40%;
+  float: left;
+  text-align: left;
+  border: 0px solid violet;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+.listing-info-table-cell-right {
+  width: 60%;
+  float: right;
+  text-align: right;
+  border: 0px solid black;
+  box-sizing: border-box;
+}
+.listing-info-link-internal {
+  width: 100%;
+  border: 0px solid red;
+  float: left;
+  box-sizing: border-box;
+  line-height: 0.7;
+}
+.listing-info-link-external {
+  width: 100%;
+  border: 0px solid orange;
+  float: left;
+  box-sizing: border-box;
+  line-height: 0.7;
+}
