@@ -261,7 +261,7 @@
 .listings {
   width: 100%;
   height: auto;
-  border: 2px solid black;
+  border: 0px solid black;
   margin: 0 auto;
   box-sizing: border-box;
   float: left;
@@ -269,7 +269,7 @@
 .listing {
   height: auto;
   width: auto;
-  border: 2px solid red;
+  border: 0px solid red;
   box-sizing: border-box;
   float: left;
 }
@@ -277,7 +277,7 @@
   width: 50%;
   height: 100%;
   float: left;
-  border: 2px solid orange;
+  border: 0px solid orange;
   box-sizing: border-box;
   padding-top: 20px;
   @include media-query($on-laptop) {
@@ -295,7 +295,7 @@
   width: 50%;
   height: 100%;
   float: right;
-  border: 2px solid yellow;
+  border: 0px solid yellow;
   box-sizing: border-box;
   padding-top: 25px;
   padding-bottom: 25px;
@@ -313,21 +313,21 @@
 .listing-preview-image {
   width: 320px;
   height: 320px;
-  border: 2px solid yellowgreen;
+  border: 0px solid yellowgreen;
   display: block;
   margin: 0 auto;
   box-sizing: border-box;
 }
 .listing-info-heading {
   width: 100%;
-  border: 2px solid green;
+  border: 0px solid green;
   box-sizing: border-box;
   font-variant: small-caps;
   letter-spacing: 0px;
 }
 .listing-info-subheading {
   width: 100%;
-  border: 2px solid cyan;
+  border: 0px solid cyan;
   box-sizing: border-box;
 }
 .listing-info-table {
@@ -335,7 +335,7 @@
   margin-left: auto;
   margin-right: auto;
   float: left;
-  border: 2px solid blue;
+  border: 0px solid blue;
   margin-top: 10px;
   margin-bottom: 30px;
   box-sizing: border-box;
@@ -352,7 +352,7 @@
 }
 .listing-info-table-row {
   width: 100%;
-  border: 2px solid blueviolet;
+  border: 0px solid blueviolet;
   float: left;
   box-sizing: border-box;
 }
@@ -360,7 +360,7 @@
   width: 40%;
   float: left;
   text-align: left;
-  border: 2px solid violet;
+  border: 0px solid violet;
   box-sizing: border-box;
   font-weight: bold;
 }
@@ -368,13 +368,13 @@
   width: 60%;
   float: right;
   text-align: right;
-  border: 2px solid black;
+  border: 0px solid black;
   box-sizing: border-box;
 }
 .listing-info-link-internal {
   line-height: 0.7;
   width: 100%;
-  border: 2px solid red;
+  border: 0px solid red;
   float: left;
   box-sizing: border-box;
   @include media-query($on-laptop) {
@@ -387,7 +387,7 @@
 .listing-info-link-external {
   line-height: 0.7;
   width: 100%;
-  border: 2px solid orange;
+  border: 0px solid orange;
   float: left;
   box-sizing: border-box;
   @include media-query($on-laptop) {
