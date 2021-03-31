@@ -265,16 +265,10 @@
   box-sizing: border-box;
 }
 .listing {
-  height: 370px;
+  height: auto;
   width: auto;
   border: 2px solid red;
   box-sizing: border-box;
-  @include media-query($on-laptop) {
-    height: 370px;
-  }
-  @include media-query($on-palm) {
-    height: 750px;
-  }
 }
 .listing-info {
   width: 50%;
