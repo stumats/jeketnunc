@@ -345,9 +345,9 @@
     margin-right: auto;
   }
   @include media-query($on-palm) {
-    width: 66%;
-    margin-left: 17%;
-    margin-right: 17%;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
 .listing-info-table-row {
