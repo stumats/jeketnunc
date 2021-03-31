@@ -265,6 +265,7 @@
   box-sizing: border-box;
 }
 .listing {
+  height: 370px;
   width: auto;
   border: 2px solid red;
   box-sizing: border-box;
@@ -276,6 +277,9 @@
   }
 }
 .listing-info {
+  width: 50%;
+  height: 100%;
+  float: left;
   border: 2px solid orange;
   box-sizing: border-box;
   padding-top: 20px;
@@ -291,6 +295,9 @@
   }
 }
 .listing-preview {
+  width: 50%;
+  height: 100%;
+  float: right;
   border: 2px solid yellow;
   box-sizing: border-box;
   padding-top: 25px;
@@ -356,6 +363,7 @@
   box-sizing: border-box;
 }
 .listing-info-link-internal {
+  line-height: 0.7;
   width: 100%;
   border: 2px solid red;
   float: left;
@@ -368,6 +376,7 @@
   }
 }
 .listing-info-link-external {
+  line-height: 0.7;
   width: 100%;
   border: 2px solid orange;
   float: left;
