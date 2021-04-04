@@ -13,5 +13,5 @@ The [**MathMakesArt Website**](https://mathmakes.art) is the reason I created th
 It implements **jeketnunc** as its theme and is hosted on GitHub Pages via the [**mathMakesArt/mathmakesart.github.io**](https://github.com/mathMakesArt/mathmakesart.github.io) repository.
 
 ## FAQ
-**Q:** What does "jeketnunc" mean?
+**Q:** What does "jeketnunc" mean?<br />
 **A:** "jek et nunc" is **not Latin** for "Jekyll and now".
