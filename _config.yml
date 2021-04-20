@@ -1,15 +1,14 @@
-title: jeketnunc
-author: mathMakesArt
+title: stuetnunc
+author: mathMakesArt-stumats
 email: mathmakesart@gmail.com
 description: > # this means to ignore newlines
-  jeketnunc is a theme for Jekyll websites,
+  stuetnunc is a fork of mathMakesArt theme for Jekyll websites,
   specifically designed for use by artists
   on the HicEtNunc platform
 # social links
-github_username:  mathMakesArt
-twitter_username: mathMakesArt
-instagram_username: mathMakesArt
-facebook_username: mathMakesArt
+github_username:  stumats
+twitter_username: stusontier
+instagram_username: stusontierphoto
 
 
 # Mastodon instances
@@ -23,7 +22,7 @@ facebook_username: mathMakesArt
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b, %Y"
 
 
 # Build settings
